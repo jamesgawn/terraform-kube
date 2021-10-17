@@ -1,1 +1,0 @@
-civo_token = "RGWV0IUl06Aurjci3dn5BYvN1PbxMCTE7zSQthDwe2sLkqK4oH"
